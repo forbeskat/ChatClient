@@ -1,8 +1,3 @@
-# Assignment 5 Makefile
-# You should only need to change this if you either
-# add new source files, or remove source files provided
-# in the skeleton project
-
 CXX = g++
 CXXFLAGS = -g -Wall -std=c++14 -D_POSIX_C_SOURCE=200809L
 CC = gcc
