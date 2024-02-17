@@ -3,6 +3,11 @@ Chat Client
 
 This is a chat client program inspired by classical chat systems such as IRC. It allows users to communicate synchronously with a server in real-time over a TCP connection. The program supports two types of clients: receivers, who can read messages from the server, and senders, who can send messages to the server. The server partitions clients into rooms, enabling multiple groups of people to converse independently.
 
+Example Chat Session
+================
+
+<img width="1437" alt="image" src="https://github.com/forbeskat/ChatClient/assets/63268053/22777b3c-f0ec-431d-af1a-737862ca6230">
+
 Features
 --------
 
