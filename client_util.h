@@ -12,6 +12,5 @@ std::string ltrim(const std::string &s);
 std::string rtrim(const std::string &s);
 std::string trim(const std::string &s);
 
-// you can add additional declarations here...
 
 #endif // CLIENT_UTIL_H
