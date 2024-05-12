@@ -2,10 +2,6 @@
 #include <csignal>
 #include "server.h"
 
-// If you implement the Server class as described by its
-// TODO comments, you should not need to make any changes
-// to this main function.
-
 int main(int argc, char **argv) {
   if (argc != 2) {
     std::cerr << "Usage: server_main <port>\n";
